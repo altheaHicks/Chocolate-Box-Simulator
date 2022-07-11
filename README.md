@@ -21,7 +21,7 @@ then run the object file that has been created along with a seed value
 $ ./a.out 42
 ```
 
-Any seed value may be used. If you user does not provide a seed value, an error message will pop up and program will terminate. 
+Any seed value may be used. If user does not provide a seed value, an error message will pop up and program will terminate. 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
