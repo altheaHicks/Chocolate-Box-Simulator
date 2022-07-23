@@ -7,9 +7,9 @@ This is a silly console game that simulates the experience of picking a piece of
 
 ## Usage
 
-Requires a linux terminal. Includes a main.cpp file. 
+Includes one main.cpp file.
 
-first compile the main file
+To compile and run in a linux terminal:
 
 ```bash
 $ g++ main.cpp
