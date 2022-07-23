@@ -9,7 +9,7 @@ This is a silly console game that simulates the experience of picking a piece of
 
 Includes one main.cpp file.
 
-To compile and run in a linux terminal:
+To compile and run on linux with a gnu compiler:
 
 ```bash
 $ g++ main.cpp
